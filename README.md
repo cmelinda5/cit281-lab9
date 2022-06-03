@@ -1,7 +1,7 @@
 # Lab 9
 
 ### Purpose
-- Learned more about how to create a release-based workflow on GitHub via GitHub Learning Lab
+- Learn more about how to create a release-based workflow on GitHub via GitHub Learning Lab
 
 ### Technologies
 - GitHub
